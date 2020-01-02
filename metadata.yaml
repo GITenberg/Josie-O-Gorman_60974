@@ -1,0 +1,32 @@
+_repo: Josie-O-Gorman_60974
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Armstrong, Harry W.
+    gutenberg_agent_id: '50389'
+    url: http://www.gutenberg.org/2009/agents/50389
+creator:
+  authors:
+  - agent_name: Dyne, Edith Van
+    gutenberg_agent_id: '51208'
+    url: http://www.gutenberg.org/2009/agents/51208
+  - agent_name: Sampson, Emma Speed
+    alias: Van Dyne, Edith
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '25389'
+    url: http://www.gutenberg.org/2009/agents/25389
+    wikipedia: https://en.wikipedia.org/wiki/Emma_Speed_Sampson
+description: ''
+gutenberg_issued: '2019-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60974'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Josie O'Gorman
+url: http://www.gutenberg.org/ebooks/60974
