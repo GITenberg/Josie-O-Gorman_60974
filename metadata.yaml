@@ -1,10 +1,13 @@
 _repo: Josie-O-Gorman_60974
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Armstrong, Harry W.
     gutenberg_agent_id: '50389'
     url: http://www.gutenberg.org/2009/agents/50389
+covers:
+- cover_type: archival
+  image_path: 60974-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Dyne, Edith Van
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25389
     wikipedia: https://en.wikipedia.org/wiki/Emma_Speed_Sampson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60974#Josie-O-Gorman
 gutenberg_issued: '2019-12-20'
 gutenberg_type: Text
 identifiers:
